@@ -1,1 +1,2 @@
 This is the mars.txt file.
+This is the second line.
